@@ -22,7 +22,7 @@ School Management System
 - **Authorization and Authentication**<br>
   User can Register and login.
 
-  - **Users Types**<br>
+- **Users Types**<br>
   The sytem offers to users to be login and register as teacher or user.
 
 - **User Profile**<br>
