@@ -10,6 +10,10 @@ School Management System
 🎥 Watch Our Demo Video from [Here](https://drive.google.com/file/d/1iM9JdXfcUACD6MPkI0O4cvLsJKxN7F4Z/view?usp=sharing)
 
 
+## **Postman**
+[Here](https://bold-equinox-118713.postman.co/workspace/My-Workspace~911ad57c-b301-4305-8cbb-a8d0adf2a497/collection/26326579-7ea6bb0c-0828-4c1f-ba75-13633ef61f79?action=share&creator=26326579)
+
+
 ## **FEATURES**
 
 - **Rest Framework Interface**<br>
