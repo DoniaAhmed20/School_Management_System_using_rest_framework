@@ -16,7 +16,7 @@ School Management System
 - **STAND ON THE RIGHT PATH**
   <h4>Use the command cd followed by the directory path School_Management_System_Without_Rest_Framework</h4>
   <pre>
-    cd School_Management_System_Without_Rest_Framework
+    cd School_Management_System_using_rest_framework
   </pre>
 
 - **Create a Virtual Environment**
