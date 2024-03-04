@@ -5,6 +5,59 @@
 School Management System
 
 
+
+## **INSTALLATION**
+
+- **CLONE THE REPOSITORY**
+  <pre>
+    git clone https://github.com/DoniaAhmed20/School_Management_System_using_rest_framework.git
+  </pre>
+
+- **STAND ON THE RIGHT PATH**
+  <h4>Use the command cd followed by the directory path School_Management_System_Without_Rest_Framework</h4>
+  <pre>
+    cd School_Management_System_Without_Rest_Framework
+  </pre>
+
+- **Create a Virtual Environment**
+  <pre>
+    python -m venv venv
+  </pre>
+
+- **Activate the Virtual Environment**
+  <pre>
+    venv\Scripts\activate
+  </pre>
+
+- **INSTALL DEPENDENCIES**
+  <pre>
+    pip install -r requirements.txt
+    python -m pip install Pillow
+  </pre>
+
+- **Apply Migrations**
+  <pre>
+    python manage.py makemigrations
+  </pre>
+
+- **Apply Migrations**
+  <pre>
+    python manage.py migrate
+  </pre>
+
+- **RUN SERVER**
+  <h4>Use the command cd followed by the directory path frontend</h4>
+  <pre>
+    python manage.py runserver 
+  </pre>
+
+  -**NOTE**
+   <h4>to access admin panel should comment the line <h1>AUTH_USER_MODEL = 'users.User'</h1> in settings.py file</h4>
+
+  
+<h4>Open your web browser and navigate to ` http://127.0.0.1:8000/` to access the Threads & Beads website.</h4><br>
+
+
 ## **DEMO**
 
 🎥 Watch Our Demo Video from [Here](https://drive.google.com/file/d/1iM9JdXfcUACD6MPkI0O4cvLsJKxN7F4Z/view?usp=sharing)
